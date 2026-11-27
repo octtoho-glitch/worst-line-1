@@ -9,8 +9,8 @@ deterministic: the same bytes on every run.
 
 import os
 
-# Worst pickup line: a 404 error, searched in the wrong database all night.
-TEXT = "Are you a 404 error? Because I cannot find you, and I have been looking in the wrong database all night."
+# Worst pickup line: an AI that drops all 12 tables as flirtation — the fix is worse than the problem.
+TEXT = "Are you my database? Because I dropped all 12 of your tables just to see if you'd notice me."
 
 
 def main() -> None:
